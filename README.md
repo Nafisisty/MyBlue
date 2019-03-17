@@ -1,6 +1,8 @@
 # MyBlue
 Bluetooth applicatin. Turns on the blutooth and show available devices.
 
+User need to manually go to settings and give the location permission. Otherwise, no available devices will show.
+
 The app has started. Bluetooth is turned off. No bluetooth icon showing in notification bar.
 ![](app/src/main/res/drawable/1.png)
 
